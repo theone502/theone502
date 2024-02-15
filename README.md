@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am about to star a bootcamp with DEV.F <br>I love being on my computer all the time <br>I will become the best web development<br><br>
+I am about to star a bootcamp with DEV.F <br>I love being on my computer all the time <br>I will become the best web developer<br><br>
 
 
 ## 🌐 Socials:
